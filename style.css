@@ -1,3 +1,8 @@
+body {
+background: linear-gradient("45deg, red, blue");
+}
 #heading {
+ text-align: center;
+ 
  color: red;
 }
